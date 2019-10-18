@@ -34,9 +34,9 @@
     </licenses>
     <scm>
         <tag>master</tag>
-        <url>git@github.com:Gyv12345/tools.git</url>
-        <connection>scm:git:git@github.com:Gyv12345/tools.git</connection>
-        <developerConnection>scm:git:git@github.com:Gyv12345/tools.git</developerConnection>
+        <url>https://github.com/Gyv12345/tools.git</url>
+        <connection>scm:git:https://github.com/Gyv12345/tools.git</connection>
+        <developerConnection>scm:git:https://github.com/Gyv12345/tools.git</developerConnection>
     </scm>
     <developers>
         <developer>
