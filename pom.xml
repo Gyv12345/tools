@@ -8,7 +8,7 @@
     <artifactId>tools</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
-    <name>swagger-kubernetes</name>
+    <name>yang-tools</name>
     <url>https://github.com/Gyv12345/tools</url>
     <description>一个帮助类的项目</description>
 
